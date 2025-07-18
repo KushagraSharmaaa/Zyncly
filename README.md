@@ -1,6 +1,7 @@
-# 🌟 Zyncly - Advanced MERN B2B Teams Project Management SaaS
+# 🌟 Zyncly - Team Project Management Tool
 
-A powerful and scalable multi-tenancy project management system built with **Node.js**, **MongoDB**, and **React**. Designed for real-world B2B needs, this project delivers features like Google Sign-In, workspace management, project tracking, task collaboration, role-based permissions, and more.
+Zyncly is a full-stack Team Project Management application built using the MERN Stack (MongoDB, Express, React, Node). The app is designed to handle team collaboration with real-world features like authentication, task tracking, workspace management, and role-based permissions.
+
 
 ---
 
@@ -152,19 +153,6 @@ Access the application at `http://localhost:5173`.
 - Implements responsive design with TailwindCSS
 - Uses React Query for state management
 
----
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-**Built with ❤️ by Kushagra Sharma using the MERN stack**
 
